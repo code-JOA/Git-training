@@ -39,3 +39,10 @@ You can look at the bottom of this file, if you have not yet done basic git conf
 - `touch filename` to create a file (or `sc filename ''` in PowerShell in Windows)
 - `echo content > file` to overwrite file with content (or `sc filename 'content'` in PowerShell in Windows)
 - `echo content >> file` to append file with content (or `ac filename 'content'` in PowerShell in Windows)
+
+
+## Git Initial Configuration
+1. `git config --global user.name "John Doe"`
+1. `git config --global user.email "johndoe@example.com`
+
+
