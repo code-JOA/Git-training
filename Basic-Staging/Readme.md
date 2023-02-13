@@ -45,3 +45,16 @@ You live in your own repository. There is a file called `file.txt`.
 22. What does `git status` tell us?
 
 
+## Useful commands
+
+- `git add`
+- `git commit`
+- `git commit -m "My lazy short commit message"`
+- `git reset`
+- `git checkout`
+- `git log`
+- `git log -n 5`
+- `git log --oneline`
+- `git log --oneline --graph`
+- `git reset HEAD `
+- `git checkout`
