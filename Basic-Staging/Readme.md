@@ -43,3 +43,5 @@ You live in your own repository. There is a file called `file.txt`.
 20. Run `git checkout file.txt`
 21. What is the content of `file.txt`?
 22. What does `git status` tell us?
+
+
